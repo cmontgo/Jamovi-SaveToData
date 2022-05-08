@@ -1,0 +1,11 @@
+---
+name:  SaveRand
+title: Save Random Numbers to DataPane
+jrs:   '1.1'
+
+items:
+    - name:  text
+      title: Save Random Numbers to DataPane
+      type:  Preformatted
+
+...
